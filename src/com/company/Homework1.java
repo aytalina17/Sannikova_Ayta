@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class Main {
+public class Homework1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int min = 0;
@@ -33,6 +33,8 @@ public class Main {
         }
     }
 }
+
+
 
 
 
